@@ -17,6 +17,7 @@ namespace SampleApp
     {
         public Startup(IConfiguration configuration)
         {
+            // comment
             Configuration = configuration;
         }
 
